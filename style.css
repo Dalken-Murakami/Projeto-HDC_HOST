@@ -310,3 +310,10 @@ color:#70747a;
     color: white;
 
 }
+/*Footer*/
+
+footer {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
